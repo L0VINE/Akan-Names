@@ -9,6 +9,9 @@ body{
 }
 h1{
     color: orange;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
 }
 form{
     background-image: url(/static/images/greetings.jpg);
