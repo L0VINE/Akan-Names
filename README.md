@@ -9,7 +9,10 @@
     - Cynthia Lovine
   
 ## Setup instructions
-    - 
+    - Download Booststrap 
+    -Install git 
+    -Download the code Run it from vs code in any web browser
+
 ​
 ## BDD
     As a user, I would like to;
@@ -28,7 +31,7 @@
     - JS
   
 ## Contact information
-    - Your contact info
+    - cynthia.lovine@student.moringaschool.com
   
 ## License and Copyright information
     
