@@ -1,14 +1,35 @@
 body{
-   
-}
-.main{
-    background-image: url(/static/images/country.jpg);
-    background-repeat: no-repeat; 
+   background-image: url("/static/images/people.jpg");
+   background-repeat: no-repeat; 
     background-size: cover;
-    height: 500px;
+    height: 70vh;
     width: 100%;
+    color: goldenrod;
+    font-size: 15px;
 }
 
 form{
+    background-image: url(/static/images/greetings.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ object-fit: contain;
+ padding: 20px;
+ background-position: center;
 
+width: 100%;
+height: 100%;
+border-radius: 10px;
+/* background-color: indigo; */
+}
+
+form input{
+    width: 50%;
+    padding: 5px;
+     border: none; 
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+table{
+    color: goldenrod;
 }
