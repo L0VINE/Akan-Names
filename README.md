@@ -18,7 +18,7 @@
     
 ​The website will require a user to fill out information about his date of birth and the year he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user.
 ## Live link
-    Deployed project can be accessed here -  [Akan Names Generator](https://gmaroko.github.io/akan-name/)
+    Deployed project can be accessed here -  [Akan Names Generator](https://l0vine.github.io/Akan-Names/)
 ​
 ## Technologies used
     - HTML
