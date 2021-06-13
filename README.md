@@ -15,18 +15,14 @@
 
 ​
 ## BDD
-    As a user, I would like to;
-​
-    - See a  small description of what the application does on the landing page. 
-    - Enter my birthday through a form
-    - Choose what gender I am.
-    - Click the submit button to see what my Akan name would be
-  
+    
+​The website will require a user to fill out information about his date of birth and the century he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
 ## Live link
     Deployed project can be accessed here -  [Akan Names Generator](https://gmaroko.github.io/akan-name/)
 ​
 ## Technologies used
     - HTML
+    -BOOTSTRAP
     - CSS
     - JS
   
