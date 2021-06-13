@@ -2,12 +2,14 @@ body{
    background-image: url("/static/images/people.jpg");
    background-repeat: no-repeat; 
     background-size: cover;
-    height: 70vh;
+    height: 50vh;
     width: 100%;
-    color: goldenrod;
-    font-size: 15px;
+    color: white;
+    font-size: 21px;
 }
-
+h1{
+    color: orange;
+}
 form{
     background-image: url(/static/images/greetings.jpg);
  background-repeat: no-repeat;
@@ -16,20 +18,25 @@ form{
  object-fit: contain;
  padding: 20px;
  background-position: center;
-
 width: 100%;
 height: 100%;
 border-radius: 10px;
-/* background-color: indigo; */
+
 }
 
 form input{
     width: 50%;
     padding: 5px;
      border: none; 
-    margin-bottom: 20px;
-    border-radius: 5px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    opacity: 0.5;
 }
 table{
-    color: goldenrod;
+    padding-top: 15px;
+margin-top: 15px;
+border-radius: 40px;
+}
+label{
+    color: rgb(155, 117, 15);
 }
