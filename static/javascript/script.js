@@ -19,12 +19,15 @@ var akan = function (y, m, d, g) {
 
 $(document).ready(function () {
   $("form#form").submit(function (event) {
+    
     event.preventDefault();
     var y = parseInt($("#year").val());
     var m = parseInt($("#month").val());
     var d = parseInt($("#date").val());
+
     var g = $("input:radio[name=gender]:checked").val();
     var result = akan(y, m, d, g);
+    
     document.querySelector(".Khan").style.display = "block";
     document.getElementById("ghana").innerHTML = "Your Akan name is " + result;
     document.getElementById("form").reset();
